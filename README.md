@@ -17,3 +17,4 @@ Anyways... welcome to my github profile, youll find various repos. Feel free to 
 💬 Get in touch
   - Feel free to drop a message via my website **[WooHooo](https://sheronsuditha.me)** PS: once its *completed* or ask anything via an email **me@sheronsuditha.me**
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SheronSuditha&layout=compact)
