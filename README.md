@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, Im Sheron Suditha 😀.
 
-<!--
-**SheronSuditha/SheronSuditha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am i ?
 
-Here are some ideas to get you started:
+> Currently a Software Engineering student at Deakin University Australia. A Developing and programming enthusiast.
+Founder at **Tracecat Solutions** and **Socials** **@TraceCat-Inc**, an AI powered real-time answer generation platform. 
+Developer and Lead Software Engineer at KrateStudios Media ~ Developing KratePlatfrom - The next hub for content creators. 
+Production and Developing Engineer at **Gamer.LK** @Gamer-lk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages im proficent at and love the most 💙
+
+> C++, C#, Python, JS, Java and more!
+
+
+Anyways... welcome to my github profile, youll find various repos. Feel free to browse through, the best is private tho 😥
+
+💬 Get in touch
+  - Feel free to drop a message via my website **[WooHooo](https://sheronsuditha.me)** PS: once its *completed* or ask anything via an email **me@sheronsuditha.me**
+
