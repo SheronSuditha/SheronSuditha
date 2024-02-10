@@ -7,7 +7,7 @@ Currently enrolled in Software Engineering at Deakin University in Australia, I'
 - **Tracecat**: A cornerstone project where I explored AI's potential to revolutionize real-time answer generation.
 
 ### 🛠️ Current Project Spotlight
-- **rundwn**: A groundbreaking tool revolutionising live production management. rundwn streamlines broadcast operations by providing real-time updates and ensuring seamless event execution. It empowers producers with advanced scheduling capabilities, ensuring every part of the live event is flawlessly organized and adaptable to changes on the fly. [@rundwn](github.com/rundwn)
+- **rundwn**: A groundbreaking tool revolutionising live production management. rundwn streamlines broadcast operations by providing real-time updates and ensuring seamless event execution. It empowers producers with advanced scheduling capabilities, ensuring every part of the live event is flawlessly organized and adaptable to changes on the fly. [@rundwn](https://github.com/rundwn)
   
 ### 💻 Technologies I Master and Adore
 Through my projects and research, I've become proficient in a wide array of programming languages and frameworks, including but not limited to:
