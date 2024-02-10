@@ -1,19 +1,26 @@
-# Hi, Im Sheron Suditha 😀.
+# 🌟 Hi, I'm Sheron! 🌟
 
-## Who am i ?
+### 🚀 About Me
+Currently enrolled in Software Engineering at Deakin University in Australia, I'm deeply engaged in blending academic knowledge with hands-on software development experiences. My contributions to Gamer.LK, Ingame Esports, and Deakin IoT Research Labs have allowed me to spearhead projects that bridge technology with real-world applications, particularly enhancing live streaming and content creation areas. My role as a researcher has further enabled me to delve into optimizing internet technologies, focusing on improving real-time communication and network efficency. This journey is fueled by a genuine passion for innovation and the desire to make impactful contributions to the field of software engineering.
+### 🛠️ Past Projects
 
-> Currently a Software Engineering student at Deakin University Australia. A Developing and programming enthusiast.
-Founder at **Tracecat Solutions** and **Socials** **@TraceCat-Inc**, an AI powered real-time answer generation platform. 
-Developer and Lead Software Engineer at KrateStudios Media ~ Developing KratePlatfrom - The next hub for content creators. 
-Production and Developing Engineer at **Gamer.LK** @Gamer-lk
+- **Tracecat**: A cornerstone project where I explored AI's potential to revolutionize real-time answer generation.
 
-## Languages im proficent at and love the most 💙
+### 🛠️ Current Project Spotlight
+- **RUNDWN**: A groundbreaking tool revolutionising live production management. rundwn streamlines broadcast operations by providing real-time updates and ensuring seamless event execution. It empowers producers with advanced scheduling capabilities, ensuring every part of the live event is flawlessly organized and adaptable to changes on the fly.
+  
+### 💻 Technologies I Master and Adore
+Through my projects and research, I've become proficient in a wide array of programming languages and frameworks, including but not limited to:
+- **Languages**: TypeScript, Rust, C++, C, C#, Python, Lua, Go
+- **Frameworks/Libraries**: React, Angular, NextJS, NodeJS, ASP.NET, Laravel, Django, TensorFlow, PyTorch, Spark, SciKit
 
-> C++, C#, Python, JS, Java and more!
+I also have experience with Verilog, and game development platforms like Unity.
 
+### 🚀 Looking Forward
+I'm continuously seeking new challenges and opportunities to apply my skills in innovative projects that push the boundaries of technology and creativity.
 
-Anyways... welcome to my github profile, youll find various repos. Feel free to browse through, the best is private tho 😥
+### 📫 Connect With Me
+- **Email**: [me@sheronsuditha.me](mailto:me@sheronsuditha.me)
+- **LinkedIn**: [Sheron Suditha](https://www.linkedin.com/in/suditha)
 
-💬 Get in touch
-  - Feel free to drop a message via my website **[WooHooo](https://sheronsuditha.me)** PS: once its *completed* or ask anything via an email **me@sheronsuditha.me**
-
+> Embracing the journey of continuous learning and innovation, one project at a time.
